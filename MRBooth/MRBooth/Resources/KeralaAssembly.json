@@ -1,0 +1,207 @@
+{
+  "state": "Kerala",
+  "districts": [
+    {
+      "name": "Thiruvananthapuram",
+      "constituencies": [
+        "Aruvikkara",
+        "Attingal",
+        "Chirayinkeezhu",
+        "Kallikkad",
+        "Kattakkada",
+        "Kazhakootam",
+        "Kovalam",
+        "Nedumangad",
+        "Nemom",
+        "Neyyattinkara",
+        "Parassala",
+        "Thiruvananthapuram",
+        "Vamanapuram",
+        "Varkala",
+        "Vattiyoorkavu"
+      ]
+    },
+    {
+      "name": "Kollam",
+      "constituencies": [
+        "Chadayamangalam",
+        "Chathannoor",
+        "Chavara",
+        "Eravipuram",
+        "Karunagappally",
+        "Kollam",
+        "Kottarakkara",
+        "Kundara",
+        "Kunnathur",
+        "Punalur"
+      ]
+    },
+    {
+      "name": "Pathanamthitta",
+      "constituencies": [
+        "Adoor",
+        "Aranmula",
+        "Chengannur",
+        "Konni",
+        "Mallappally",
+        "Pathanamthitta",
+        "Ranni",
+        "Thiruvalla"
+      ]
+    },
+    {
+      "name": "Alappuzha",
+      "constituencies": [
+        "Alappuzha",
+        "Ambalappuzha",
+        "Aroor",
+        "Chengannur",
+        "Cherthala",
+        "Haripad",
+        "Kayamkulam",
+        "Kuttanad",
+        "Mavelikkara"
+      ]
+    },
+    {
+      "name": "Kottayam",
+      "constituencies": [
+        "Changanassery",
+        "Erattupetta",
+        "Ettumanoor",
+        "Kaduthuruthy",
+        "Kottayam",
+        "Pala",
+        "Poonjar",
+        "Puthuppally",
+        "Vaikom"
+      ]
+    },
+    {
+      "name": "Idukki",
+      "constituencies": [
+        "Devikulam",
+        "Idukki",
+        "Muvattupuzha",
+        "Peerumedu",
+        "Thodupuzha",
+        "Udumbanchola"
+      ]
+    },
+    {
+      "name": "Ernakulam",
+      "constituencies": [
+        "Aluva",
+        "Angamaly",
+        "Ernakulam",
+        "Kalamassery",
+        "Kochi",
+        "Kothamangalam",
+        "Muvattupuzha",
+        "Paravur",
+        "Perumbavoor",
+        "Thrikkakara",
+        "Thripunithura",
+        "Vypin"
+      ]
+    },
+    {
+      "name": "Thrissur",
+      "constituencies": [
+        "Chalakudy",
+        "Guruvayur",
+        "Irinjalakuda",
+        "Kodungallur",
+        "Manalur",
+        "Nattika",
+        "Ollur",
+        "Puthukkad",
+        "Thrissur",
+        "Wadakkanchery"
+      ]
+    },
+    {
+      "name": "Palakkad",
+      "constituencies": [
+        "Alathur",
+        "Chittur",
+        "Kongad",
+        "Mannarkkad",
+        "Ottapalam",
+        "Palakkad",
+        "Pattambi",
+        "Shoranur",
+        "Tarur"
+      ]
+    },
+    {
+      "name": "Malappuram",
+      "constituencies": [
+        "Eranad",
+        "Kondotty",
+        "Malappuram",
+        "Manjeri",
+        "Mankada",
+        "Nilambur",
+        "Perinthalmanna",
+        "Ponnani",
+        "Tanur",
+        "Tirur",
+        "Tirurangadi",
+        "Wandoor"
+      ]
+    },
+    {
+      "name": "Kozhikode",
+      "constituencies": [
+        "Balussery",
+        "Beypore",
+        "Koduvally",
+        "Kozhikode North",
+        "Kozhikode South",
+        "Kunnamangalam",
+        "Kuttiadi",
+        "Nadapuram",
+        "Quilandy",
+        "Thiruvambady",
+        "Vadakara"
+      ]
+    },
+    {
+      "name": "Wayanad",
+      "constituencies": [
+        "Eranad",
+        "Kalpetta",
+        "Mananthavady",
+        "Nilambur",
+        "Sulthan Bathery"
+      ]
+    },
+    {
+      "name": "Kannur",
+      "constituencies": [
+        "Azhikode",
+        "Dharmadam",
+        "Irikkur",
+        "Kannur",
+        "Kuthuparamba",
+        "Mattannur",
+        "Payyannur",
+        "Peravoor",
+        "Taliparamba",
+        "Thalassery"
+      ]
+    },
+    {
+      "name": "Kasaragod",
+      "constituencies": [
+        "Hosdurg",
+        "Kanhangad",
+        "Kasaragod",
+        "Manjeshwaram",
+        "Nileshwaram",
+        "Udma"
+      ]
+    }
+  ]
+}

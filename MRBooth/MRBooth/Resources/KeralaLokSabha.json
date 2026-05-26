@@ -1,0 +1,95 @@
+{
+  "state": "Kerala",
+  "districts": [
+    {
+      "name": "Thiruvananthapuram",
+      "constituencies": [
+        "Attingal",
+        "Thiruvananthapuram"
+      ]
+    },
+    {
+      "name": "Kollam",
+      "constituencies": [
+        "Kollam"
+      ]
+    },
+    {
+      "name": "Pathanamthitta",
+      "constituencies": [
+        "Pathanamthitta"
+      ]
+    },
+    {
+      "name": "Alappuzha",
+      "constituencies": [
+        "Alappuzha",
+        "Mavelikkara"
+      ]
+    },
+    {
+      "name": "Kottayam",
+      "constituencies": [
+        "Kottayam"
+      ]
+    },
+    {
+      "name": "Idukki",
+      "constituencies": [
+        "Idukki"
+      ]
+    },
+    {
+      "name": "Ernakulam",
+      "constituencies": [
+        "Ernakulam"
+      ]
+    },
+    {
+      "name": "Thrissur",
+      "constituencies": [
+        "Thrissur",
+        "Chalakudy"
+      ]
+    },
+    {
+      "name": "Palakkad",
+      "constituencies": [
+        "Palakkad",
+        "Alathur"
+      ]
+    },
+    {
+      "name": "Malappuram",
+      "constituencies": [
+        "Malappuram",
+        "Ponnani"
+      ]
+    },
+    {
+      "name": "Kozhikode",
+      "constituencies": [
+        "Kozhikode",
+        "Vadakara"
+      ]
+    },
+    {
+      "name": "Wayanad",
+      "constituencies": [
+        "Wayanad"
+      ]
+    },
+    {
+      "name": "Kannur",
+      "constituencies": [
+        "Kannur"
+      ]
+    },
+    {
+      "name": "Kasaragod",
+      "constituencies": [
+        "Kasaragod"
+      ]
+    }
+  ]
+}
